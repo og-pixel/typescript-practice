@@ -1,0 +1,11 @@
+{
+  "name": "typescript-practice",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:og-pixel/typescript-practice.git",
+  "author": "Milosz Jakubanis <milosz.jakubanis@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  }
+}
